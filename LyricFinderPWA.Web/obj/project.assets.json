@@ -11845,11 +11845,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Pluralsight\\LyricFinderPWA\\LyricFinderPWA\\LyricFinderPWA.Web\\LyricFinderPWA.Web.csproj",
+      "projectUniqueName": "C:\\Pluralsight\\LyricFinderPWA\\LyricFinderPWA.Web\\LyricFinderPWA.Web.csproj",
       "projectName": "LyricFinderPWA.Web",
-      "projectPath": "C:\\Pluralsight\\LyricFinderPWA\\LyricFinderPWA\\LyricFinderPWA.Web\\LyricFinderPWA.Web.csproj",
+      "projectPath": "C:\\Pluralsight\\LyricFinderPWA\\LyricFinderPWA.Web\\LyricFinderPWA.Web.csproj",
       "packagesPath": "C:\\Users\\ocreaney\\.nuget\\packages\\",
-      "outputPath": "C:\\Pluralsight\\LyricFinderPWA\\LyricFinderPWA\\LyricFinderPWA.Web\\obj\\",
+      "outputPath": "C:\\Pluralsight\\LyricFinderPWA\\LyricFinderPWA.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6PYIHb9sBsPIcMiW67dSKX4BmBuRVhkevfp/9wRyapMOTgMy9tfYVmr61XjZsV+h22D//lW/ItsS1UNerT2PFA==",
+  "dgSpecHash": "VYBJBOG4wQC+CqrRX+7jbgz66ZoxkakMH7/cu5Eiq8rUZRY6U0CxNchhQ1Q2wvt8OpdUCt6hUzk56h8/vKS5fg==",
   "success": true,
-  "projectFilePath": "C:\\Pluralsight\\LyricFinderPWA\\LyricFinderPWA\\LyricFinderPWA.Web\\LyricFinderPWA.Web.csproj",
+  "projectFilePath": "C:\\Pluralsight\\LyricFinderPWA\\LyricFinderPWA.Web\\LyricFinderPWA.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ocreaney\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore\\2.1.1\\microsoft.aspnetcore.2.1.1.nupkg.sha512",
